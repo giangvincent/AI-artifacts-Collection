@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "pencil": {
+      "command": "~/.pencil/mcp/visual_studio_code/out/mcp-server-darwin-arm64",
+      "args": [
+        "--app",
+        "visual_studio_code"
+      ],
+      "env": {}
+    },
+    "agentmemory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@agentmemory/mcp"
+      ],
+      "env": {
+        "AGENTMEMORY_URL": "${AGENTMEMORY_URL:-http://localhost:3111}",
+        "AGENTMEMORY_SECRET": "REDACTED",
+        "AGENTMEMORY_TOOLS": "${AGENTMEMORY_TOOLS:-all}"
+      }
+    }
+  }
+}

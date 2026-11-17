@@ -1,0 +1,77 @@
+[
+	{
+		"identifier": {
+			"id": "anysphere.remote-containers",
+			"uuid": "94d8b289-9db0-4c3c-b4f3-a3294c789678"
+		},
+		"version": "1.0.37",
+		"location": {
+			"$mid": 1,
+			"path": "~/.cursor/extensions/anysphere.remote-containers-1.0.37",
+			"scheme": "file"
+		},
+		"relativeLocation": "anysphere.remote-containers-1.0.37",
+		"metadata": {
+			"isApplicationScoped": true,
+			"installedTimestamp": 1781664584706,
+			"source": "gallery",
+			"id": "94d8b289-9db0-4c3c-b4f3-a3294c789678",
+			"publisherId": "c16ea17f-2629-4893-9064-35c0fd9add4c",
+			"publisherDisplayName": "Anysphere",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"private": false,
+			"isPreReleaseVersion": false,
+			"hasPreReleaseVersion": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "anysphere.remote-ssh"
+		},
+		"version": "1.1.4",
+		"location": {
+			"$mid": 1,
+			"fsPath": "~/.cursor/extensions/anysphere.remote-ssh-1.1.4",
+			"external": "file:///Users/you/.cursor/extensions/anysphere.remote-ssh-1.1.4",
+			"path": "~/.cursor/extensions/anysphere.remote-ssh-1.1.4",
+			"scheme": "file"
+		},
+		"relativeLocation": "anysphere.remote-ssh-1.1.4",
+		"metadata": {
+			"isApplicationScoped": true,
+			"isMachineScoped": false,
+			"isBuiltin": false,
+			"installedTimestamp": 1781745733171,
+			"pinned": false,
+			"source": "gallery",
+			"id": "73a45d83-83c7-4b22-bebf-c9130b0ab3f3",
+			"publisherId": "c16ea17f-2629-4893-9064-35c0fd9add4c",
+			"publisherDisplayName": "Anysphere",
+			"targetPlatform": "undefined",
+			"updated": true,
+			"private": false,
+			"isPreReleaseVersion": false,
+			"hasPreReleaseVersion": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "commandcode.commandcode-vscode"
+		},
+		"version": "0.2.3",
+		"location": {
+			"$mid": 1,
+			"fsPath": "~/.cursor/extensions/commandcode.commandcode-vscode-0.2.3",
+			"external": "file:///Users/you/.cursor/extensions/commandcode.commandcode-vscode-0.2.3",
+			"path": "~/.cursor/extensions/commandcode.commandcode-vscode-0.2.3",
+			"scheme": "file"
+		},
+		"relativeLocation": "commandcode.commandcode-vscode-0.2.3",
+		"metadata": {
+			"installedTimestamp": 1791933458441,
+			"source": "vsix"
+		}
+	}
+]

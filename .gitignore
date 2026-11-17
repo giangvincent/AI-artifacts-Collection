@@ -1,0 +1,22 @@
+# credentials & secrets — never commit
+auth.json
+auth.json.lock
+auth.lock
+*.key
+*.pem
+*.p12
+*.pfx
+*.token
+*.salt
+.env
+.env.*
+oauth_creds.json
+google_accounts.json
+*keypair*
+admin-api-token
+cli-client-id
+server-id
+daemon-keypair.json
+.claude.json*
+known_hosts
+.DS_Store

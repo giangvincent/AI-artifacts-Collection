@@ -1,0 +1,20 @@
+name: Main Config
+version: 1.0.0
+schema: v1
+models:
+  - name: devstral-small-2-2512
+    provider: lmstudio
+    model: mistralai/devstral-small-2-2512
+    apiBase: http://localhost:1234/v1/
+  - name: ministral 3
+    provider: lmstudio
+    model: mistralai/ministral-3-3b
+    apiBase: http://localhost:1234/v1/
+  - name: rnj-1
+    provider: lmstudio
+    model: essentialai/rnj-1
+    apiBase: http://localhost:1234/v1/
+  - name: Devstral Medium
+    provider: mistral
+    model: devstral-medium-latest
+    apiKey: REDACTED

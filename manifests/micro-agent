@@ -1,0 +1,3 @@
+OPENAI_KEY=ollama
+OPENAI_API_ENDPOINT=http://127.0.0.1:1234/v1
+MODEL=mistralai/devstral-small-2-2512

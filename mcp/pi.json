@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "laya-control": {
+      "command": "~/Documents/tools/laya-mcp-control/.venv/bin/laya-control-mcp",
+      "args": []
+    },
+    "private-app": {
+      "command": "node",
+      "args": [
+        "~/Documents/private-app-app/dist/mcp/bridge.js"
+      ]
+    }
+  }
+}

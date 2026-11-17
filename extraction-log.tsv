@@ -1,0 +1,394 @@
+skills	add-community-extension	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	api-and-interface-design	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	ask-matt	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	browser-testing-with-devtools	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	cavecrew	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	caveman-commit	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	caveman-compress	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	caveman-help	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	caveman-review	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	caveman-stats	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	caveman	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	chief-of-staff	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	ci-cd-and-automation	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	claude-handoff	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	code-review-and-quality	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	code-simplification	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	codebase-design	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	context-engineering	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	debugging-and-error-recovery	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	deprecation-and-migration	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	design	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	diagnosing-bugs	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	documentation-and-adrs	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	domain-modeling	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	doubt-driven-development	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	find-skills	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	frontend-ui-engineering	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	git-guardrails-claude-code	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	git-workflow-and-versioning	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	grill-me	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	grill-with-docs	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	grilling	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	handoff	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	idea-refine	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	implement-spec	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	implement	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	improve-codebase-architecture	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	incremental-implementation	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	interview-me	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	karpathy-guidelines	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	loop-me	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	migrate-to-shoehorn	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	paseo-advisor	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	paseo-committee	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	paseo-handoff	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	paseo-help	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	paseo-plugin	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	paseo	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	performance-optimization	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	planning-and-task-breakdown	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	pr	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	prototype	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	research	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	resolving-merge-conflicts	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	retro	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	scaffold-exercises	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	security-and-hardening	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	setup-matt-pocock-skills	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	setup-pre-commit	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	setup-ts-deep-modules	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	source-driven-development	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	spec-driven-development	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	tdd	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	teach-arch	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	teach-site	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	teach	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	test-driven-development	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	to-questionnaire	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	to-spec	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	to-tickets	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	triage	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	typesafe-ai	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	using-agent-skills	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	wait-what	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	wayfinder	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	wizard	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	writing-beats	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	writing-for-agents	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	writing-fragments	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	writing-shape	duplicate-identical	.agents (skills)	same content, single copy kept
+skills	add-community-extension	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	api-and-interface-design	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	ask-matt	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	browser-testing-with-devtools	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	ci-cd-and-automation	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	code-review-and-quality	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	code-simplification	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	codebase-design	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	context-engineering	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	debugging-and-error-recovery	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	deprecation-and-migration	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	design	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	documentation-and-adrs	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	doubt-driven-development	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	find-skills	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	frontend-ui-engineering	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	git-workflow-and-versioning	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	graphify	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	grill-me	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	grill-with-docs	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	grilling	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	handoff	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	idea-refine	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	improve-codebase-architecture	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	incremental-implementation	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	interview-me	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	karpathy-guidelines	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	paseo-advisor	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	paseo-committee	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	paseo-handoff	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	paseo-help	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	paseo-plugin	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	paseo	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	performance-optimization	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	planning-and-task-breakdown	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	security-and-hardening	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	setup-matt-pocock-skills	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	source-driven-development	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	spec-driven-development	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	tdd	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	teach	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	test-driven-development	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	to-spec	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	to-tickets	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	typesafe-ai	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.claude (skills)	existing copy newer; this variant not kept
+skills	using-agent-skills	duplicate-identical	.claude (skills)	same content, single copy kept
+skills	develop-web-game	duplicate-identical	.codex (skills)	same content, single copy kept
+skills	graphify	dropped-older	.codex (skills)	existing copy newer; this variant not kept
+skills	karpathy-guidelines	dropped-older	.codex (skills)	existing copy newer; this variant not kept
+skills	lms-project-analytics	duplicate-identical	.codex (skills)	same content, single copy kept
+skills	pdf	duplicate-identical	.codex (skills)	same content, single copy kept
+skills	playwright	duplicate-identical	.codex (skills)	same content, single copy kept
+skills	ask-matt	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	chief-of-staff	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	claude-handoff	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	codebase-design	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	diagnosing-bugs	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	domain-modeling	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	frontend-design	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	git-guardrails-claude-code	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	grill-me	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	grill-with-docs	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	grilling	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	handoff-writer	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	handoff	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	implement-spec	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	implement	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	improve-codebase-architecture	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	karpathy-guidelines	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	laravel-specialist	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	laya-background-launch	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	laya-model-recommend	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	loop-me	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	migrate-to-shoehorn	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	minimalist-ui	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	nodejs-backend-patterns	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	ponytail-audit	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	ponytail-debt	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	ponytail-gain	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	ponytail-help	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	ponytail-review	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	ponytail	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	pr	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	prototype	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	python-appservice-deploy	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	research	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	retro	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	scaffold-exercises	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	security-audit	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	setup-matt-pocock-skills	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	setup-pre-commit	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	setup-ts-deep-modules	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	subagent-driven-development	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	tdd	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	teach	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	to-questionnaire	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	to-spec	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	to-tickets	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	triage	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	ui-ux-pro-max	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	vercel-react-best-practices	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	vercel-react-native-skills	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	vue-best-practices	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	wait-what	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	wayfinder	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	web-design-guidelines	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	wizard	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	writing-beats	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	writing-for-agents	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	writing-fragments	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	writing-shape	duplicate-identical	.commandcode (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.gemini (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.gemini (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.gemini (skills)	same content, single copy kept
+skills	design	duplicate-identical	.gemini (skills)	same content, single copy kept
+skills	graphify	duplicate-identical	.gemini (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.gemini (skills)	same content, single copy kept
+skills	spec-driven-development	duplicate-identical	.gemini (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.gemini (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.gemini (skills)	existing copy newer; this variant not kept
+skills	add-community-extension	duplicate-identical	.continue (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.continue (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.continue (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.continue (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.continue (skills)	same content, single copy kept
+skills	design	duplicate-identical	.continue (skills)	same content, single copy kept
+skills	karpathy-guidelines	duplicate-identical	.continue (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.continue (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.continue (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.continue (skills)	existing copy newer; this variant not kept
+skills	banner-design	duplicate-identical	.cursor (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.cursor (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.cursor (skills)	same content, single copy kept
+skills	design	duplicate-identical	.cursor (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.cursor (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.cursor (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.cursor (skills)	existing copy newer; this variant not kept
+skills	automate	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	babysit	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	canvas	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	create-hook	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	create-rule	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	create-skill	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	create-subagent	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	loop	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	migrate-to-skills	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	onboard	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	review-bugbot	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	review-security	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	review	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	sdk	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	shell	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	split-to-prs	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	statusline	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	update-cli-config	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	update-cursor-settings	duplicate-identical	.cursor (skills-cursor)	same content, single copy kept
+skills	add-community-extension	duplicate-identical	.kiro (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.kiro (skills)	same content, single copy kept
+skills	karpathy-guidelines	duplicate-identical	.kiro (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.kiro (steering)	same content, single copy kept
+skills	brand	duplicate-identical	.kiro (steering)	same content, single copy kept
+skills	design-system	duplicate-identical	.kiro (steering)	same content, single copy kept
+skills	design	duplicate-identical	.kiro (steering)	same content, single copy kept
+skills	slides	duplicate-identical	.kiro (steering)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.kiro (steering)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.kiro (steering)	existing copy newer; this variant not kept
+skills	merlin-archive	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-code-review	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-debugging	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-email	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-excalidraw	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-infographic	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-ocr-and-documents	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-pdf	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-plan	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-pptx	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-spreadsheet	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-tdd	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-web-designs	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	merlin-x-link-reader	duplicate-identical	.merlin (default-skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.windsurf (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.windsurf (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.windsurf (skills)	same content, single copy kept
+skills	design	duplicate-identical	.windsurf (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.windsurf (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.windsurf (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.windsurf (skills)	existing copy newer; this variant not kept
+skills	banner-design	duplicate-identical	.opencode (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.opencode (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.opencode (skills)	same content, single copy kept
+skills	design	duplicate-identical	.opencode (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.opencode (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.opencode (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.opencode (skills)	existing copy newer; this variant not kept
+skills	add-community-extension	duplicate-identical	.augment (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.augment (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.augment (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.augment (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.augment (skills)	same content, single copy kept
+skills	design	duplicate-identical	.augment (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.augment (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.augment (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.augment (skills)	existing copy newer; this variant not kept
+skills	add-community-extension	duplicate-identical	.codebuddy (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.codebuddy (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.codebuddy (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.codebuddy (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.codebuddy (skills)	same content, single copy kept
+skills	design	duplicate-identical	.codebuddy (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.codebuddy (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.codebuddy (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.codebuddy (skills)	existing copy newer; this variant not kept
+skills	banner-design	duplicate-identical	.codewhale (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.codewhale (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.codewhale (skills)	same content, single copy kept
+skills	design	duplicate-identical	.codewhale (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.codewhale (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.codewhale (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.codewhale (skills)	existing copy newer; this variant not kept
+skills	add-community-extension	duplicate-identical	.factory (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.factory (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.factory (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.factory (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.factory (skills)	same content, single copy kept
+skills	design	duplicate-identical	.factory (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.factory (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.factory (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.factory (skills)	existing copy newer; this variant not kept
+skills	add-community-extension	duplicate-identical	.kilocode (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.kilocode (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.kilocode (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.kilocode (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.kilocode (skills)	same content, single copy kept
+skills	design	duplicate-identical	.kilocode (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.kilocode (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.kilocode (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.kilocode (skills)	existing copy newer; this variant not kept
+skills	add-community-extension	duplicate-identical	.trae (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.trae (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.trae (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.trae (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.trae (skills)	same content, single copy kept
+skills	design	duplicate-identical	.trae (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.trae (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.trae (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.trae (skills)	existing copy newer; this variant not kept
+skills	add-community-extension	duplicate-identical	.roo (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.roo (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.roo (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.roo (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.roo (skills)	same content, single copy kept
+skills	design	duplicate-identical	.roo (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.roo (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.roo (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.roo (skills)	existing copy newer; this variant not kept
+skills	add-community-extension	duplicate-identical	.qoder (skills)	same content, single copy kept
+skills	banner-design	duplicate-identical	.qoder (skills)	same content, single copy kept
+skills	brand	duplicate-identical	.qoder (skills)	same content, single copy kept
+skills	code-review	duplicate-identical	.qoder (skills)	same content, single copy kept
+skills	design-system	duplicate-identical	.qoder (skills)	same content, single copy kept
+skills	design	duplicate-identical	.qoder (skills)	same content, single copy kept
+skills	slides	duplicate-identical	.qoder (skills)	same content, single copy kept
+skills	ui-styling	duplicate-identical	.qoder (skills)	same content, single copy kept
+skills	ui-ux-pro-max	dropped-older	.qoder (skills)	existing copy newer; this variant not kept
+skills	bmad-bmad-loop	copied-whitelist	.bmad (cache/external-modules)	md/yaml/csv only; framework source excluded
+skills	bmad-bmb	copied-whitelist	.bmad (cache/external-modules)	md/yaml/csv only; framework source excluded
+skills	bmad-cis	copied-whitelist	.bmad (cache/external-modules)	md/yaml/csv only; framework source excluded
+skills	bmad-gds	copied-whitelist	.bmad (cache/external-modules)	md/yaml/csv only; framework source excluded
+skills	bmad-tea	copied-whitelist	.bmad (cache/external-modules)	md/yaml/csv only; framework source excluded
+skills	bmad-wds	copied-whitelist	.bmad (cache/external-modules)	md/yaml/csv only; framework source excluded
+plugins	created-by-me-remote	copied-whitelist	.codex/plugins/cache	manifests/docs only; runtime binaries excluded (469MB total)
+plugins	openai-bundled	copied-whitelist	.codex/plugins/cache	manifests/docs only; runtime binaries excluded (469MB total)
+plugins	openai-curated-remote	copied-whitelist	.codex/plugins/cache	manifests/docs only; runtime binaries excluded (469MB total)
+plugins	openai-curated	copied-whitelist	.codex/plugins/cache	manifests/docs only; runtime binaries excluded (469MB total)
+plugins	openai-primary-runtime	copied-whitelist	.codex/plugins/cache	manifests/docs only; runtime binaries excluded (469MB total)
+plugins	ponytail	copied-whitelist	.codex/plugins/cache	manifests/docs only; runtime binaries excluded (469MB total)
+mods	account-usage.ts	copied	.commandcode	
+mods	ponytail.ts	copied	.commandcode	
+mods	rtk.ts	copied	.commandcode	
+mods	usage.ts	copied	.commandcode	
+extensions	cursor-extensions.json	copied	.cursor	installed-extension manifest
+extensions	windsurf-extensions.json	copied	.windsurf	installed-extension manifest
+extensions	antigravity-extensions.json	copied	.antigravity	installed-extension manifest
+extensions	antigravity-ide-extensions.json	copied	.antigravity-ide	installed-extension manifest
+rules	codex-default.rules	copied	.codex/rules	
+hooks	codex-hooks.json	copied	.codex	
+hooks	rtk-hook-gemini.sh	copied	.gemini/hooks	
+instructions	AGENTS.md	copied	. (file)	
+instructions	AGENTS.md	replaced-newer	.codex (file)	newer variant; older variant dropped
+instructions	AGENTS.md	dropped-older	.commandcode (file)	existing copy newer; this variant not kept
+instructions	AGENTS.md	dropped-older	.pi (file)	existing copy newer; this variant not kept
+instructions	CLAUDE.md	copied	. (file)	
+instructions	CLAUDE.md	dropped-older	.claude (file)	existing copy newer; this variant not kept
+instructions	GEMINI.md	copied	. (file)	
+instructions	GEMINI.md	dropped-older	.gemini (file)	existing copy newer; this variant not kept
+instructions	RTK.md	copied	.claude (file)	
+instructions	RTK.md	dropped-older	.codex (file)	existing copy newer; this variant not kept
+manifests	skills-lock.json	copied	~	
+manifests	micro-agent	copied	~	
+manifests	agents-skill-lock.json	copied	~/.agents	

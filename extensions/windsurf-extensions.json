@@ -1,0 +1,20 @@
+[
+	{
+		"identifier": {
+			"id": "commandcode.commandcode-vscode"
+		},
+		"version": "0.2.3",
+		"location": {
+			"$mid": 1,
+			"fsPath": "~/.windsurf/extensions/commandcode.commandcode-vscode-0.2.3",
+			"external": "file:///Users/you/.windsurf/extensions/commandcode.commandcode-vscode-0.2.3",
+			"path": "~/.windsurf/extensions/commandcode.commandcode-vscode-0.2.3",
+			"scheme": "file"
+		},
+		"relativeLocation": "commandcode.commandcode-vscode-0.2.3",
+		"metadata": {
+			"installedTimestamp": 1791933458458,
+			"source": "vsix"
+		}
+	}
+]
